@@ -20,7 +20,7 @@ body{
 }
 
 header{
-    background-image: url('../img/supermk\ \(1\).jpg'); /*La propiedad La imagen se muestra en la zona que ocupan el contenido y el relleno del elemento, justo hasta su borde*/
+    background-image: url('../img/portada.png'); /*La propiedad La imagen se muestra en la zona que ocupan el contenido y el relleno del elemento, justo hasta su borde*/
     height:600px; /* representa la altura la medida*/
     background-repeat: no-repeat; /*La propiedad de CSS background-repeat define como se repiten los fondos del documento. Un fondo de imagen puede ser repetido sobre 
     el eje horizontal, el eje vertical, ambos ejes, o no estar repetido*/
@@ -59,7 +59,7 @@ header .contenido-header{
 header .contenido-header .titulo-header{
     font-size: 120px;
     text-align: center;
-    color: rgb(63, 128, 63);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ header .contenido-header .linea-header{
     width: 700px;
     margin: auto;
     height:5px;
-    background: #33ad4e;
+    background: #36bddf;
     margin-bottom:30px;
     text-align: center;
 }
@@ -75,7 +75,7 @@ header .contenido-header .linea-header{
 header .contenido-header .texto-header{
     color: rgb(255, 255, 255);
     font-weight: 300;
-    margin-bottom:30px;
+    margin-bottom:3px;
     font-size:40px;
     text-align: center;
 }
